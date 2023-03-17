@@ -1,19 +1,16 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Mohammadreza A. Dehaqani
+    profile_pic: /_images/pp/dehaqani.jpg
+    webpage: https://ece.ut.ac.ir/~dehaqani
+  - name: Mostafa Tavassolipour
+    profile_pic: /_images/pp/tavassolipour.jpg
+    webpage: https://ece.ut.ac.ir/~105820023
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Ramin Toosi
+    profile_pic: /_images/pp/ramintoosi.jpg
+    webpage: https://ramintoosi.ir
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Amirali Soltani Tehrani
+    profile_pic: /_images/pp/amiralisoltani.jpg
+    webpage: https://aasolteh.github.io
