@@ -1,6 +1,6 @@
 # Site settings
 course_name: Introduction to Machine Learning
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "This course is prepared at University of Tehran, Iran."
 course_semester: "Spring 2023"
 
 baseurl: "/MLspr2023"
@@ -10,9 +10,9 @@ schoolname: "University of Tehran, ECE Department"
 schoolurl: "https://ece.ut.ac.ir"
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Electrical and Computer Engineering
+    University of Tehran
+    Tehran, Iran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
